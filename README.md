@@ -4,6 +4,7 @@ Learning cryptography and security is fun instead of saying it hard or Complex. 
 
 ###  [Grab this Book for Just $14](https://leanpub.com/cryptop)
 
+![Book](https://github.com/anishnath/cryptop/blob/master/book.png)
 
 Additional Bundle Available
 
