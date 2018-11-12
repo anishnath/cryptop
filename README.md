@@ -2,19 +2,22 @@
 
 Learning cryptography and security is fun instead of saying it hard or Complex. This books covers cookbook style of cryptography using python as a programming language. Chapters presented in this book are independent and can be read in any order. 
 
+###  [Grab this Book for Just $14](https://leanpub.com/cryptop)
 
 
 Additional Bundle Available
 
-Bundle#1 : Grab Two Book for Just $20
+### [Grab Two Crypto Book form Just $20 ](https://leanpub.com/b/cbundle)
 
-The Modern Cryptography Book
-Cryptography for JavaScript Developer
-Bundle#2 : Grab Three Crypto Book for Just $24
+1. The Modern Cryptography Book
+2. Cryptography for JavaScript Developer
 
-The Modern Cryptography Book.
-Python Cryptography
-Cryptography for JavaScript Developer
+
+### [Grab Three Crypto Book form Just $24 ](https://leanpub.com/b/crypto)
+
+1. The Modern Cryptography Book.
+2. Python Cryptography
+3. Cryptography for JavaScript Developer
 
 # What you will Learn in Python Cryptography
 
